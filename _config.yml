@@ -14,7 +14,7 @@ repository               : "aldiindrawan-maker/aldiindrawan-maker.github.io"
 
 # Site Author (Tampilan Sidebar Kiri)
 author:
-  avatar           : avatar: "/images/profile.jpeg"
+  avatar           : avatar: "/images/aiai.jpeg"
   name             : "Aldi Indrawan"
   pronouns         : "he/him"  
   bio              : "Master's Student @UGM 🏛️<br>AI & Computer Vision Researcher 🚀"
