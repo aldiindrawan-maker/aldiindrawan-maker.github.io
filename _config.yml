@@ -14,7 +14,7 @@ repository               : "aldiindrawan-maker/aldiindrawan-maker.github.io"
 
 # Site Author (Tampilan Sidebar Kiri)
 author:
-  avatar           : "profile.jpeg"" # Pastikan kamu upload foto bernama profile.png ke folder images nanti
+  avatar           : "profile.jpeg" # Pastikan kamu upload foto bernama profile.png ke folder images nanti
   name             : "Aldi Indrawan"
   pronouns         : "he/him"  
   bio              : "Master's Student @UGM 🏛️<br>AI & Computer Vision Researcher 🚀"
